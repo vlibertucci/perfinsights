@@ -65,7 +65,7 @@
 
 # Constants
 
-SCRIPTVERSION=3.4
+SCRIPTVERSION=3.5
 SCRIPT=`realpath $0`
 SCRIPTPATH=${PWD} #`dirname $SCRIPT`
 BLUE='\034[0;34m'
